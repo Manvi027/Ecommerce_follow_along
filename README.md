@@ -13,3 +13,9 @@ He taught us the foundational and initial steps to set up the environment for fu
 ***Tailwind CSS Configuration*** : Integrate and configure Tailwind CSS to enable modern, responsive, and utility-based styling.
 ***Login Page Development*** : Create the first user interface of your e-commerce application, focusing on both functionality and styling.
 
+*Milestone 3: **Overview**
+In this live session led by our mentor we did :
+*Setting up backend folders and files.
+*Configuring and connecting the server to MongoDB.
+*Writing basic error-handling code.
+
