@@ -19,3 +19,7 @@ In this live session led by our mentor we did :
 *Configuring and connecting the server to MongoDB.
 *Writing basic error-handling code.
 
+**Milestone 4:** 
+In this mentor led live session we learned to create a user model(This is like a blueprint for how users' data will be stored in the database).
+Then we learned to create a user controller(This will help to manage what happens with user's data (like adding a new user or getting their information)).
+*Enable and configure Multer: Multer will allow app to accept and store files (such as images) uploaded by users.At last we pushed the changes into our repository.
