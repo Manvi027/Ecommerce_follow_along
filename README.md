@@ -46,7 +46,7 @@ Stops Password Theft: Encrypted passwords can’t be easily stolen or guessed.
 At the end we just pushed the changes into our github repository and updated the readme file summarizing what was done in the milestone.
 
 
-**Milestone 7**: User Login Backend 🚀  
+**Milestone 7**: User Login Backend 📝
 
  *Learning Goals*  
 - Validate user credentials during login.  
@@ -69,5 +69,24 @@ At the end we just pushed the changes into our github repository and updated the
 3. *Verify Password* → Hash input & compare with stored hash.  
 
  *Note:* Passwords are hashed (not decrypted). We compare hashes for authentication.
+
+**Milestone 8**: Card Components 📝
+
+*Learning goals* :
+-> Learn how to create a card component.
+-> Learn how to display those cards on the products page.  
  
+ *Why Create Card Components?* 
+-> <u>Showcase Products Effectively</u>: Presents product details in a clear and visually appealing way.
+-> <u>Reusable Design</u>: Can be used across multiple pages or sections of the app.
+-> <u>Improved User Experience</u>: Makes it easy for users to browse and interact with products.
+-> <u>Organized Layout</u>: Keeps the homepage clean and structured.
+
+*How to Display a Single Card for Multiple Products?*
+-> <u>Create a Dynamic Component</u>: Design a single card component that accepts product details as props.
+-> <u>Use Mapping</u>: Use array mapping to iterate over the product list and render a card for each product.
+-> <u>Pass Data Dynamically</u>: Pass unique product information (e.g., name, price, image) to each card.
+-> <u>Maintain Consistency</u>: Ensure the layout remains uniform for all products.
+
+
 
