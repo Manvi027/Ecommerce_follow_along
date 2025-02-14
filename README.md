@@ -77,16 +77,16 @@ At the end we just pushed the changes into our github repository and updated the
 -> Learn how to display those cards on the products page.  
  
  *Why Create Card Components?* 
--> <u>Showcase Products Effectively</u>: Presents product details in a clear and visually appealing way.
--> <u>Reusable Design</u>: Can be used across multiple pages or sections of the app.
--> <u>Improved User Experience</u>: Makes it easy for users to browse and interact with products.
--> <u>Organized Layout</u>: Keeps the homepage clean and structured.
+-> Showcase Products Effectively: Presents product details in a clear and visually appealing way.
+-> Reusable Design: Can be used across multiple pages or sections of the app.
+-> Improved User Experience: Makes it easy for users to browse and interact with products.
+-> Organized Layout: Keeps the homepage clean and structured.
 
 *How to Display a Single Card for Multiple Products?*
--> <u>Create a Dynamic Component</u>: Design a single card component that accepts product details as props.
--> <u>Use Mapping</u>: Use array mapping to iterate over the product list and render a card for each product.
--> <u>Pass Data Dynamically</u>: Pass unique product information (e.g., name, price, image) to each card.
--> <u>Maintain Consistency</u>: Ensure the layout remains uniform for all products.
+-> Create a Dynamic Component: Design a single card component that accepts product details as props.
+-> Use Mapping: Use array mapping to iterate over the product list and render a card for each product.
+-> Pass Data Dynamically: Pass unique product information (e.g., name, price, image) to each card.
+-> Maintain Consistency: Ensure the layout remains uniform for all products.
 
 
 
