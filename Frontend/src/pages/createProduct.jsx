@@ -96,7 +96,7 @@ return (
       </div>
       <div>
         <label className="pb-1 block">
-          Name <span className="text-red-500">*</span>
+          Name <span className="text-red-500">*</span>/
         </label>
         <input
           type="text"
