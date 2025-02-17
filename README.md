@@ -88,5 +88,17 @@ At the end we just pushed the changes into our github repository and updated the
 -> Pass Data Dynamically: Pass unique product information (e.g., name, price, image) to each card.
 -> Maintain Consistency: Ensure the layout remains uniform for all products.
 
+**Milestone 9** : Frontend Form 📝
+
+*Learning Goals* :
+-> Learn how to create a form that will take all the details of product
+-> Learn how to take multiple images as input.
+
+Why Create Product form?
+-> Here we will create an form to input all the details of product.
+-> This details will be eventually saved in database and will be displayed on products home page we created in previous milestone.
+
+This lesson will help us in understanding the basic creating of products please feel free to experiment on adding more features like creating an admin access and allow only admin to upload products or create and shop profile and a user with only shop profile can upload.
+
 
 
