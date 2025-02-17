@@ -94,9 +94,27 @@ At the end we just pushed the changes into our github repository and updated the
 -> Learn how to create a form that will take all the details of product
 -> Learn how to take multiple images as input.
 
-Why Create Product form?
+*Why Create Product form?* :
 -> Here we will create an form to input all the details of product.
 -> This details will be eventually saved in database and will be displayed on products home page we created in previous milestone.
+
+This lesson will help us in understanding the basic creating of products please feel free to experiment on adding more features like creating an admin access and allow only admin to upload products or create and shop profile and a user with only shop profile can upload.
+
+**Milestone 10**: 📝
+
+*Learning Goals* :
+-> Learn how to write product schema
+-> Learn how to create an end point to validate and store product details in mongodb.
+
+*Product Schema* :
+-> Define the structure of product data (e.g., name, description, price, image URL) using Mongoose. -Ensure each field has proper validation (e.g., required fields, correct data types).
+
+*Endpoint Creation* :
+-> Build a POST endpoint to receive product data.
+-> Validate and save the product details to MongoDB.
+
+*Why Validation?* :
+-> Ensures that only valid data is saved in the database, maintaining data integrity and preventing errors.
 
 This lesson will help us in understanding the basic creating of products please feel free to experiment on adding more features like creating an admin access and allow only admin to upload products or create and shop profile and a user with only shop profile can upload.
 
