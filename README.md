@@ -118,5 +118,25 @@ This lesson will help us in understanding the basic creating of products please 
 
 This lesson will help us in understanding the basic creating of products please feel free to experiment on adding more features like creating an admin access and allow only admin to upload products or create and shop profile and a user with only shop profile can upload.
 
+**Milestone 11** : 📝
+
+*Learning Goals* :
+
+-> How to write an endpoint that will send data from extract and send data from mongodb.
+-> how to receive data at frontend -How to display that data dynamically using product card created earlier.
+
+This lesson will help us in understanding How to send and receive data and how to display that data dynamically using components. Further we pushed the changes to our git repo. using the git commands.
+
+**Milestone 12** : 📝
+
+*Learning Goals* : 
+
+-> How to write an endpoint that will send data by filtering with my mail and send data from mongodb.
+-> how to receive data at frontend -How to display that data dynamically using product card created earlier.
+
+This lesson will help us in understanding How to Filter the data with particular constrains and send it to client.
+
+
+
 
 
