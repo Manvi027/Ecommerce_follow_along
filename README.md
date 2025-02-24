@@ -136,6 +136,17 @@ This lesson will help us in understanding How to send and receive data and how t
 
 This lesson will help us in understanding How to Filter the data with particular constrains and send it to client.
 
+**Milestone 13** :📝 
+
+*Learning Goals* :
+
+-> How to write an endpoint that will update the existing data in MongoDB.
+-> how to auto fill the form with previous data and give option to edit.
+
+In frontend we will add an edit button to the product card. When click on edit we will send the data to form and make it auto fill and have option to edit those data and save.
+
+Note:- This lesson will help us in understanding how to perform update operation in detailed.
+
 
 
 
