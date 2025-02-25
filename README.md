@@ -147,6 +147,20 @@ In frontend we will add an edit button to the product card. When click on edit w
 
 Note:- This lesson will help us in understanding how to perform update operation in detailed.
 
+**Milestone 14** :📝
+
+*Learning Goals* :
+
+-> How to write an endpoint that delete the product with specific ID from MongoDB.
+
+We will write an endpoint that will Delete the data form MongoDB using ID. In frontend we will add an delete button to the product card. 
+When click on delete button we will send the product id to server endpoint.
+
+Note:- This lesson will help you in understanding how to perform delete operation in detailed.
+
+
+
+
 
 
 
