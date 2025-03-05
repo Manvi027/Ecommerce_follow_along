@@ -159,6 +159,29 @@ When click on delete button we will send the product id to server endpoint.
 Note:- This lesson will help you in understanding how to perform delete operation in detailed.
 
 
+**Milestone 15** : 📝
+
+*Learning Goals* :
+
+-> How to create and Nav component.
+-> How to reuse the same component in multiple pages.
+
+We will add the nav component to all the pages and make the navigations to all this pages smooth and easy.
+
+This lesson will help us in understanding how to create navbar and help to navigate to multiple pages in application. 
+
+**Milestone 16** : 📝
+
+*Learning Goals* 
+
+-> How to new page to display each product.
+-> How to add quantity and add to card button.
+
+Create an new page that display all the product data
+
+
+
+
 
 
 
