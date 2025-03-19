@@ -218,6 +218,20 @@ Learning Goals 🎯 :
 
 This lesson helped in understanding how to display profile page.
 
+**Milestone 21** : 📝
+
+Learning Goals 🎯:
+
+--> Create an frontend form that will will take address.
+--> Take country, city, address1, address2, zip code, address type
+
+Steps for Milestone 21 📝--
+
+--> create address form frontend page
+--> Create an state that will store input address
+--> when we click on add address in profile it should navigate to this form page.
+
+This lesson helped in understanding how to address form.
 
 
 
