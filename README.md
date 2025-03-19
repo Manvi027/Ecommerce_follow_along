@@ -225,13 +225,28 @@ Learning Goals 🎯:
 --> Create an frontend form that will will take address.
 --> Take country, city, address1, address2, zip code, address type
 
-Steps for Milestone 21 📝--
+Steps for Milestone 21 📝- 
 
 --> create address form frontend page
 --> Create an state that will store input address
 --> when we click on add address in profile it should navigate to this form page.
 
 This lesson helped in understanding how to address form.
+
+**Milestone 22**
+
+Learning Goals 🎯:
+
+--> Create an backend endpoint that will store the address inside user profile in database.
+
+Steps for Milestone 22 📝:
+
+--> You need to create an endpoint that will receive the address from address form in frontend
+--> Add the address to the address array inside user collection.
+
+This lesson helped in understanding how to create an endpoint that will store the address.
+
+
 
 
 
