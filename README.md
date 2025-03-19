@@ -193,20 +193,32 @@ This lesson helped in understanding how to create cart functionality.
 
 **Milestone 18** : 📝
 
-Learning Goals 🎯
+Learning Goals 🎯:
 
 -> Create an endpoint to receive request from cart page.
 -> Create an backend endpoint to fetch all the products inside cart with user mail.
 
 This lesson helped in understanding how to create cart functionality.
 
-**Milestone 19** : 
+**Milestone 19** : 📝
 
-Learning Goals 🎯
+Learning Goals 🎯 :
 
 -> Create an cart page that display the products inside cart using endpoint we build in milestone 18.
 -> For each product add an option to increase and decrease quantity using + and - buttons.
 -> Write an endpoint to increase and decrease the quantity.
+
+**Milestone 20** : 📝
+
+Learning Goals 🎯 :
+
+-> Create and backend endpoint that will send all the user data using mail.
+-> Create an frontend profile page that will display all the user data
+-> display profile photo, name, mail and addresses.
+
+This lesson helped in understanding how to display profile page.
+
+
 
 
 
