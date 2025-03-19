@@ -200,6 +200,16 @@ Learning Goals 🎯
 
 This lesson helped in understanding how to create cart functionality.
 
+**Milestone 19** : 
+
+Learning Goals 🎯
+
+-> Create an cart page that display the products inside cart using endpoint we build in milestone 18.
+-> For each product add an option to increase and decrease quantity using + and - buttons.
+-> Write an endpoint to increase and decrease the quantity.
+
+
+
 
 
 
