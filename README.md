@@ -177,8 +177,18 @@ This lesson will help us in understanding how to create navbar and help to navig
 -> How to new page to display each product.
 -> How to add quantity and add to card button.
 
-Create an new page that display all the product data
+Create an new page that display all the product data.
 
+
+
+**Milestone 17** : 📝
+
+*Learning Goals*
+
+-> Edit the user schema to store cart products .
+-> Write an end point to receive the product details and store in database.
+
+This lesson helped in understanding how to create cart functionality.
 
 
 
