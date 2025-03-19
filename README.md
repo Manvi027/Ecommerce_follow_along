@@ -183,6 +183,7 @@ Create an new page that display all the product data.
 
 **Milestone 17** : 📝
 
+
 *Learning Goals*
 
 -> Edit the user schema to store cart products .
@@ -190,6 +191,14 @@ Create an new page that display all the product data.
 
 This lesson helped in understanding how to create cart functionality.
 
+**Milestone 18** : 📝
+
+Learning Goals 🎯
+
+-> Create an endpoint to receive request from cart page.
+-> Create an backend endpoint to fetch all the products inside cart with user mail.
+
+This lesson helped in understanding how to create cart functionality.
 
 
 
