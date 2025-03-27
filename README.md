@@ -208,7 +208,7 @@ Learning Goals 🎯 :
 -> For each product add an option to increase and decrease quantity using + and - buttons.
 -> Write an endpoint to increase and decrease the quantity.
 
-**Milestone 20** : 📝
+**Milestone 20**  📝
 
 Learning Goals 🎯 :
 
@@ -225,7 +225,7 @@ Learning Goals 🎯:
 --> Create an frontend form that will will take address.
 --> Take country, city, address1, address2, zip code, address type
 
-Steps for Milestone 21 📝- 
+Steps for Milestone 21 - 
 
 --> create address form frontend page
 --> Create an state that will store input address
@@ -233,20 +233,28 @@ Steps for Milestone 21 📝-
 
 This lesson helped in understanding how to address form.
 
-**Milestone 22**
+**Milestone 22** 📝
 
 Learning Goals 🎯:
 
 --> Create an backend endpoint that will store the address inside user profile in database.
 
-Steps for Milestone 22 📝:
+Steps for Milestone 22 :
 
 --> You need to create an endpoint that will receive the address from address form in frontend
 --> Add the address to the address array inside user collection.
 
 This lesson helped in understanding how to create an endpoint that will store the address.
 
+**Milestone 23** 📝:
 
+Learning Goals 🎯:
+
+--> We will add an button inside cart called "Place order".
+--> We will create an select address page where we will display all the address and ask to select delivery address.
+--> We will write mongoose schema for storing orders details.
+
+This lesson helped in understanding How to implement place order functionality.
 
 
 
