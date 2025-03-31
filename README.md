@@ -286,6 +286,23 @@ Steps for Milestone 25 -
 
 This lesson helped in understanding how to create an endpoint that place order.
 
+**Milestone 26** 📝 :
+
+Learning Goals 🎯
+
+--> Create an backend endpoint that will help getting all the orders of the user.
+
+Steps for Milestone 26 -
+
+--> We need to create an endpoint that will receive the user mail.
+--> We will get the mail of the user using that we need to retrive the _id of the user
+--> Using that _id we need to get all the orders of that user
+--> Send all the users orders in the response.
+
+This lesson helped in understanding how to get all the users orders.
+
+
+
 
 
 
