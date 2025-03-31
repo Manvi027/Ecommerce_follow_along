@@ -271,6 +271,21 @@ Steps for Milestone 24 -
 
 Note:- This lesson helped in understanding How to implement place order functionality.
 
+**Milestone 25** 📝 :
+
+Learning Goals 🎯
+
+--> Create an backend endpoint that will help in placing the order.
+
+Steps for Milestone 25 -
+
+--> We created an endpoint that will receive the products, user, address details.
+--> We  will get the mail of the user using that we need to retrive the _id of the user.
+--> For each product the order will be different with same address.
+--> Using order schema we created earlier , we will store order details in mongodb order collection.
+
+This lesson helped in understanding how to create an endpoint that place order.
+
 
 
 
