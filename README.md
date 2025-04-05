@@ -301,6 +301,22 @@ Steps for Milestone 26 -
 
 This lesson helped in understanding how to get all the users orders.
 
+**Milestone 27** 📝 :
+
+Learning Goals 🎯
+
+--> Create an frontend page that will display all the user orders.
+
+Steps for Milestone 27 - 
+
+--> We need to create an my-orders page.
+--> We will send an get request to my-orders endpoint that we created in previous milestone.
+--> We will send user mail in to endpoint to get all the user orders.
+--> Display all the user orders.
+--> We will add my-orders page in navbar for better navigation.
+
+This lesson helped in understanding how to get all the users orders.
+
 
 
 
