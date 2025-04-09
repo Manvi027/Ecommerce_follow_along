@@ -317,6 +317,21 @@ Steps for Milestone 27 -
 
 This lesson helped in understanding how to get all the users orders.
 
+**Milestone 28** 📝 :
+
+Learning Goals 🎯
+
+--> The user will be able to cancel the placed orders.
+
+Steps for Milestone 28 -
+
+--> In my-orders page for every order add cancel order button.
+--> If the order is already canceled this button should not be displayed.
+--> We need to create an endpoint that will receive the order-id.
+--> Get the order using this id and mark the status canceled and save.
+
+This lesson helped in understanding how to cancel users orders.
+
 
 
 
