@@ -332,6 +332,23 @@ Steps for Milestone 28 -
 
 This lesson helped in understanding how to cancel users orders.
 
+**Milestone 29** 📝 :
+
+Learning Goals 🎯
+
+--> Learn how to use PayPal API.
+--> Learn how to Integrate online payments.
+
+Steps for Milestone 29 -
+
+--> Created an PayPal account .
+--> Once we login we can see an option for an sandbox accounts.
+--> Copy the UserID of that account and save it.
+--> In this sandbox accounts we can find our client id copy and save it.
+--> In our order conformation page we need two options for payment one is COD and another is online payment.
+--> Create radio buttons to select COD or online payment and when we click on online payment PayPal buttons need to be displayed.
+
+In next milestone we will write an code to display and use those PayPal online Payments buttons.
 
 
 
