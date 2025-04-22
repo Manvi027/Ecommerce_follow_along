@@ -384,7 +384,7 @@ Steps for Milestone 31 -
 
 We learned how to implement global state management using Redux.
 
-**Milestone 32** 📝:
+**Milestone 32** 📝 :
 
 Learning Goals 🎯
 
@@ -396,6 +396,24 @@ Steps for Milestone 32 -
 --> In all the remaining pages acc the mail stored in global state using useSelector.
 
 This lesson helped in understanding how to use redux for global state management.
+
+**Milestone 33** 📝 :
+
+Learning Goals 🎯
+
+--> Learn how to create an JWT token.
+--> How to store the tokens inside the cookie.
+
+Steps for Milestone 33 -
+
+--> Download jsonwebtoken package using NPM
+--> Use sign method to create an JWT token with mail and ID
+--> Give maxAge to set expire time
+--> Add the cookie inside the response that helps you to store the cookie inside browser.
+
+This lesson helped in understanding how to create an JWT token and store it inside an token.
+
+
 
 
 
