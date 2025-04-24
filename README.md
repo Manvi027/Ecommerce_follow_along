@@ -413,6 +413,21 @@ Steps for Milestone 33 -
 
 This lesson helped in understanding how to create an JWT token and store it inside an token.
 
+**Milestone 34** 📝 :
+
+Learning Goals 🎯
+
+--> Learn how to extract the JWT token from the cookie and send it to the server.
+--> How to validate the JWT token received from the client.
+
+Steps for Milestone 34 -
+
+--> Get the token from the browser cookie and send it to the server
+--> In backend write an middleware function to validate that JWT token
+--> In every page making sure that this steps will happen so that user cannot go to that page with out login
+
+This lesson helped in understanding how to create validate the JWT token.
+
 
 
 
